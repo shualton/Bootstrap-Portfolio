@@ -21,9 +21,14 @@
 .cards3{
     margin-left: 20%;
 }
+.about{
+    margin-left: 150px;
+    margin-right: 100px;
+}
 footer{
     text-align: center;
     background-color: #4aaaa5;
     color: white;
     font-size: 200%;
+    width: 100%;
 }
