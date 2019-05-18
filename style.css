@@ -9,3 +9,19 @@
     margin-left: 25%;
     color: #4aaaa5;
 }
+
+.cards1{
+    margin-left: 20%;
+}
+.cards2{
+    margin-left: 20%;
+}
+.cards3{
+    margin-left: 20%;
+}
+footer{
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 200%;
+}
