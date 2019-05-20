@@ -5,10 +5,10 @@
 
 Replicated portfolio using bootstrap. Also stylized the bootstrap elements to fit grid style.
 
-#technologies used
+# Technologies-Used
 bootstrap
 css
 html
 
-#Authors
+# Authors
 Alton Shu
